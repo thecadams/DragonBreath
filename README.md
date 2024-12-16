@@ -1,4 +1,4 @@
-# DragonBreath - toy iPhone app to breath fire like a dragon
+# DragonBreath - iPhone app to breath fire like a dragon
 
 DragonBreath is an iPhone app that lets you make roaring fire with your breath!
 
